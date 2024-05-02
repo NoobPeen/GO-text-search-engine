@@ -16,7 +16,7 @@ This Go project is designed to efficiently preprocess, tokenize, and reverse-ind
 
 1)Clone the github repo
 ```
-https://github.com/NoobPeen/GO-text-search-engine/tree/main
+git clone https://github.com/NoobPeen/GO-text-search-engine.git
 ```
 
 2)Go the directory of the project and run the following command
