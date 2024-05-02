@@ -8,9 +8,9 @@ This Go project is designed to efficiently preprocess, tokenize, and reverse-ind
 
 #### Features
 
--> Preprocessing and Tokenizing: Processes the Wikipedia dump to clean and tokenize the text, preparing it for indexing.
--> Reverse Indexing: Implements a reverse index for quick lookup of tokens, enhancing search performance.
--> Search Query Interface: Offers a command-line interface that accepts user input for search queries and retrieves relevant results efficiently
+- Preprocessing and Tokenizing: Processes the Wikipedia dump to clean and tokenize the text, preparing it for indexing.
+- Reverse Indexing: Implements a reverse index for quick lookup of tokens, enhancing search performance.
+- Search Query Interface: Offers a command-line interface that accepts user input for search queries and retrieves relevant results efficiently
 
 ##### To run this project
 
