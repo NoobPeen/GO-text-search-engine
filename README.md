@@ -15,16 +15,16 @@ This Go project is designed to efficiently preprocess, tokenize, and reverse-ind
 ##### To run this project
 
 1)Clone the github repo
-'''
+```
 git clone https://github.com/NoobPeen/GO-text-search-engine/edit/main/README.md
-'''
+```
 
 2)Go the directory of the project and run the following command
-'''
+```
 go build
-'''
+```
 
 3)Usage
-'''
+```
 go run main.go -q "search query"
-'''
+```
